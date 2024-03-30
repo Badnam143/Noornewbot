@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Badnam143/Badnamanonx",
+    "https://github.com/Badnam143/Badnamnoormusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -78,16 +78,16 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
+    "START_IMG_URL", "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
+    "PING_IMG_URL", "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
+STATS_IMG_URL = "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
+STREAM_IMG_URL = "https://graph.org/file/81210c2ce55a16f8ab428.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/2f199c1e0e083e53fbf4c.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
