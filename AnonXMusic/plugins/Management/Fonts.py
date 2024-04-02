@@ -1,6 +1,6 @@
 import os
 from AnonXMusic import app
-from AamnonXMusic.utils.decorators.font_string import Fonts
+from AanonXMusic.utils.decorators.font_string import Fonts
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
